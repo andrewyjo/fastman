@@ -1,0 +1,104 @@
+∀  All
+α  alpha
+ℶ₁ (actually two symbols) "bet 1", uncountable infinity. E.g., ∑={a},S = {L: L is a language over ∑. |S| = ℶ₁, assuming the continuum hypothesis is true.
+☐  blank square (or empty space) on Turing machine tape
+ß  Beta
+δ  delta
+∆  Delta 
+ℇ  epsilon
+∃  exists
+∄  does not exist
+ƒ  function
+ϕ  Phi
+φ  phi
+γ  gamma
+Γ  Gamma
+λ  lambda
+∈  element of
+∉  not element of
+ℕ  natural numbers
+Ø  nullset
+Ω  Omega
+ℙ  Powerset (e.g.,ℙ({0,1}) = {Ø, {0}, {1}, {0,1} } 
+ψ  Psi
+∴  QED, conclusion of proof
+→  arrow  
+ℝ  real numbers
+§  section
+σ  sigma
+∑  sigma
+θ  theta
+τ  tau
+ℵ₀  "aleph naught" (countable infinity). E.g., ∑={a},S = {L: L is a regular language over ∑. |S| = ℵ₀.  
+
+Math
+
+×  multiplication
+∞  infinity  
+≈  approximately equal
+≠  not equal
+¬  complement
+⊂ proper subset 
+⊃ proper superset
+⊆  subset
+⊇  superset
+⋂  intersect set opreator
+∪  union set operator
+
+   superscripts
+
+⁰ 
+¹
+² 
+³  
+⁴ 
+⁵ 
+⁶
+⁷
+⁸
+⁹
+⁰
+⁽
+⁾
+⁺
+⁻
+⁼
+ⁱ
+ʲ
+ᵏ	
+ᴷ
+ᴸ
+ⁿ
+ᵖ
+ᵛ
+ʸ
+ᵠ
+
+     SUBSCRIPTS
+
+ᵢ
+ᵣ
+ᵤ
+ᵥ
+ᵧ
+₀ 
+₁ 
+₂
+₃
+₄
+₅
+₆
+₇
+₈
+₉
+₊
+₋
+₌
+ₐ
+ₔ
+ⱼ
+ₑ
+ₒ 
+ᵦ  
+ᵧ
+ᵩ

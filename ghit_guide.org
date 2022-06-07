@@ -1,0 +1,46 @@
+#+TITLE: Git and Github Guide
+#+AUTHOR: Andy C
+#+DATE: <2022-06-06 Mon>
+
+
+
+
+* Git Commands
+
+** New Repo from Scratch
+
+| Key                                                      | Description                     |
+|----------------------------------------------------------+---------------------------------|
+| git init                                                 | Initializes current dir as repo |
+| git add                                                  | Add files to stage              |
+| git commit -m "MSG"                                      | Commit files                    |
+| git remote add origin git@github.com:/username/repo_name | Connect to which repo           |
+| git push -u origin master                                | Pushes files to official repo   |
+|                                                          |                                 |
+|                                                          |                                 |
+
+** Working with Remote Repo's
+
+| Key                                                       | Description           |
+|-----------------------------------------------------------+-----------------------|
+| git remote add origin http://github.com/user/repo.git     | Set new remote        |
+| git remote -v                                             | Verify the new remote |
+| git remote set-url origin git@github.com:USRNAME/REPO.git | Set HTTPS to SSH      |
+|                                                           |                       |
+
+** Working with Repo's
+| Key                                        | Description                            |
+|--------------------------------------------+----------------------------------------|
+| git branch                                 | list all branches                      |
+| git checkout branch_name                   | check out branch name                  |
+| git checkout -b branch_name                | create new branch                      |
+| git checkout -b new-branch existing-branch | Create new branch from existing-branch |
+|                                            |                                        |
+
+** gh repo's
+
+| Key            | Description          |
+|----------------+----------------------|
+| gh repo create | creates repo in gh   |
+| gh repo list   | list all your repo's |
+|                |                      |

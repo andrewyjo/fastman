@@ -1,0 +1,18 @@
+dumpkeys | grep -P -i  "^keymaps.*|^keycode.*escape|^keycode.*lock" > swap.map
+
+swap.map should look like:
+
+keymaps 0-127
+keycode   1 = Escape
+keycode  58 = CtrlL_Lock
+keycode  69 = Num_Lock
+keycode  70 = Scroll_Lock
+
+Swap 1 and 58 and delete the other last two lines.
+
+sudo loadkeys swap.map
+
+add this to /etc/rc.local
+before exit 0 line
+
+loadkeys /path/to/swap.map 
